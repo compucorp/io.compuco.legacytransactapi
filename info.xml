@@ -27,7 +27,7 @@
   </classloader>
   <civix>
     <namespace>CRM/Legacytransactapi</namespace>
-    <format>22.05.2</format>
+    <format>23.02.1</format>
     <angularModule>crmLegacytransactapi</angularModule>
   </civix>
 </extension>
